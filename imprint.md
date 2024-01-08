@@ -5,8 +5,7 @@ permalink: /imprint/
 ---
 # Imprint
 René Richter  
-richter.rene[at]gmx.net
-
+richter.rene[at]posteo.de [(GPG Key)](https://keys.openpgp.org/search?q=richter.rene%40posteo.de)
 
 ## General Information
 The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data refers to any data that can be used to personally identify you. For detailed information on data protection, please refer to our privacy policy listed below this text.
