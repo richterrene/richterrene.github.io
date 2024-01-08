@@ -7,6 +7,8 @@ permalink: /imprint/
 René Richter  
 richter.rene[at]posteo.de [(PGP Key)](https://keys.openpgp.org/search?q=richter.rene%40posteo.de)
 
+Note that any unencrypted inquiry to the above email address will be deleted without further notice. Use the PGP key.
+
 ## General Information
 The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data refers to any data that can be used to personally identify you. For detailed information on data protection, please refer to our privacy policy listed below this text.
 
@@ -45,7 +47,9 @@ We would like to point out that data transmission over the Internet (e.g. when c
 Responsible party for all contents and data processing on this website:
 
 René Richter  
-richter.rene[at]gmx.net
+richter.rene[at]posteo.de [(PGP Key)](https://keys.openpgp.org/search?q=richter.rene%40posteo.de)
+
+Note that any unencrypted inquiry to the above email address will be deleted without further notice. Use the PGP key.
 
 Responsible party refers to the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (such as names, email addresses, etc.). Unless a specific storage period is mentioned within this privacy policy, your personal data will remain with us until the purpose for data processing no longer exists. If you assert a legitimate request for deletion or revoke your consent for data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (such as tax or commercial retention periods); in the latter case, deletion will occur after the expiration of these reasons.
 
